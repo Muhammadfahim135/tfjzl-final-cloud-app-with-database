@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+*.pyc
 *$py.class
 
 # C extensions
@@ -109,6 +110,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+djangoenv/
 
 # Spyder project settings
 .spyderproject
